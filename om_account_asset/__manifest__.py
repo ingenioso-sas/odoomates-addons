@@ -30,3 +30,4 @@
         "static/src/xml/account_asset_template.xml",
     ],
 }
+
